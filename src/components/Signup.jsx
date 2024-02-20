@@ -1,11 +1,11 @@
 
 
-function Signup() {
-  return (
-    <div>
+// function Signup() {
+//   return (
+//     <div>
       
-    </div>
-  )
-}
+//     </div>
+//   )
+// }
 
-export default Signup
+// export default Signup
